@@ -1,0 +1,237 @@
+{
+	"manifest_desc": {
+        "message": "Adult Blocker blockiert Zugriffe auf unerwünschte (z.B. pornografische, oder gewaltverherrlichende) Inhalte  im Internet.",
+        "description": ""
+    },
+    "actionPopup_site": {
+        "message": "Seite",
+        "description": ""
+    },
+
+    "actionPopup_status": {
+        "message": "Status",
+        "description": ""
+    },
+
+    "actionPopup_exception": {
+        "message": "Ausnahmen",
+        "description": ""
+    },
+
+    "actionPopup_enter_in": {
+        "message": "Hinzufügen zu",
+        "description": ""
+    },
+
+    "actionPopup_black_list": {
+        "message": "Blacklist",
+        "description": ""
+    },
+
+    "actionPopup_white_list": {
+        "message": "Whitelist",
+        "description": ""
+    },
+	
+    "actionPopup_mode_work": {
+        "message": "Modus",
+        "description": ""
+    },
+
+    "actionPopup_enable": {
+        "message": "Aktiviert",
+        "description": ""
+    },
+
+    "actionPopup_change_mode": {
+        "message": "Modus",
+        "description": ""
+    },
+
+    "actionPopup_enable_plugin": {
+        "message": "Aktiv",
+        "description": ""
+    },
+
+    "actionPopup_disable_10_min": {
+        "message": "Plugin deaktivieren (10 Minuten)",
+        "description": ""
+    },
+
+    "actionPopup_disable_30_min": {
+        "message": "Plugin deaktivieren (30 Minuten)",
+        "description": ""
+    },
+
+    "actionPopup_disable_60_min": {
+        "message": "Plugin deaktivieren (60 Minuten)",
+        "description": ""
+    },
+
+    "actionPopup_enter_pass": {
+        "message": "Passwort eingeben",
+        "description": ""
+    },
+
+    "actionPopup_locked_request": {
+        "message": "Blockierte Inhalte",
+        "description": ""
+    },
+	
+    "actionPopup_js_log1": {
+        "message": "Keine verbotenen Inhalte erkannt",
+        "description": ""
+    },
+	
+    "actionPopup_js_log2": {
+        "message": "Verbotene Inhalte erkannt",
+        "description": ""
+    },
+	
+	"actionPopup_js_log3": {
+        "message": "Zur Blacklist hinzugefügt",
+        "description": ""
+    },
+	
+	"actionPopup_js_log4": {
+        "message": "Zur Whitelist hinzugefügt",
+        "description": ""
+    },
+	
+	"actionPopup_js_log5": {
+        "message": "Forbidden content detected",
+        "description": ""
+    },
+
+	"actionPopup_js_log6": {
+        "message": "Plugin deaktivieren  (",
+        "description": ""
+    },
+	
+    "actionPopup_js_log7": {
+        "message": "Minuten.)",
+        "description": ""
+    },
+	
+	"blockPage_text1": {
+        "message": "Zugriff Verweigert!",
+        "description": ""
+    },
+	
+	"blockPage_text2": {
+        "message": "Adult Blocker hat den Zugriff auf die angeforderte Webseite wegen verbotener Inhalte verweigert.",
+        "description": ""
+    },
+	
+	"blockPage_text3": {
+        "message": "<p>Information: Adult Blocker hat eine <b>Blacklist</b> und eine <b>Whitelist</b>, um beliebige Inhalte unabhängig von anderen Filtereinstellungen einfach zu kategorisieren. Wenn Sie denken, dass Ihr Kind noch zu jung für die Benutzung bestimmter sozialer Netzwerke oder für das Besuchen spezifischer Webseiten ist, fügen Sie die Seite zur Blacklist hinzu. Sie ist dann, unabhängig von sonstigen Filtereinstellungen, gesperrt und mit einem Passwort geschützt. Wenn Sie möchten, dass die inhaltsbasierte Sperrung von Wörtern, Phrasen und Sätzen auf einer bestimmten Webseite ausgesetzt wird, fügen Sie die Seite zur Whitelist hinzu. Sie wird dann angezeigt, ohne dass einzelne Inhalte durch das Plugin blockiert werden. Um die Blacklist und Whitelist zu verwalten, klicken Sie auf <i class='glyphicon glyphicon-cog'></i>  Optionen. Nach der Eingabe des Passworts können sie die Einstellungen ändern.</p>",
+        "description": ""
+    },
+	
+	"blockPage_text3a": {
+        "message": "Ansicht gesperrter Wörter",
+        "description": ""
+    },
+	
+	"blockPage_text4": {
+        "message": "Fügen Sie diese Seite der Whitelist hinzu, um sie vollständig anzeigen zu lassen.",
+        "description": ""
+    },
+	
+
+	"blockPage_text5": {
+        "message": "Zur Whitelist hinzufügen",
+        "description": ""
+    },
+	
+	"optionsPage_text1": {
+        "message": "<b>Adult Blocker (Parent Control)</b> verhindert Zugriffe auf unerwünschte Inhalte im Internet, wie z.B. pornografische, gewaltverherrlichende oder altersbeschränkte Webseiten.</p><p>Der Vorteil des Plugins ist, dass Adult Blocker eine Analyse von Webseiten durchführen kann, durch die obszöne Inhalte blockiert werden. Dadurch entsteht ein besserer Schutz für Ihr Kind. Adult Blocker analysiert Webseiten auf Grundlage morphologischer Parameter und sperrt „schlechte“ Wörter, Phrasen und Sätze.</p><p>Adult Blocker hat eine <b>Blacklist</b> und eine <b>Whitelist</b>, um beliebige Inhalte einfach zu kategorisieren.</p><p>Wenn Sie denken, dass Ihr Kind noch zu jung für die Benutzung bestimmter sozialer Netzwerke oder für das Besuchen spezifischer Webseiten ist, fügen Sie die Seite zur Blacklist hinzu. Sie ist dann, unabhängig von sonstigen Filtereinstellungen, gesperrt und mit einem Passwort geschützt.</p><p>Wenn Sie möchten, dass die inhaltsbasierte Sperrung von Wörtern, Phrasen und Sätzen auf einer bestimmten Webseite ausgesetzt wird, fügen Sie die Seite zur Whitelist hinzu. Sie wird dann angezeigt, ohne dass einzelne Inhalte durch das Plugin blockiert werden.",
+        "description": ""
+    },
+	
+	"optionsPage_text2": {
+        "message": "Ausnahmen",
+        "description": ""
+    },
+	
+	"optionsPage_text3": {
+        "message": "Whitelist",
+        "description": ""
+    },
+	
+	"optionsPage_text4": {
+        "message": "Blacklist",
+        "description": ""
+    },
+	
+	"optionsPage_text5": {
+        "message": "Passwort ändern",
+        "description": ""
+    },
+	
+	"optionsPage_text6": {
+        "message": "Aktuelles Passwort ",
+        "description": ""
+    },
+	
+	"optionsPage_text7": {
+        "message": "Neues Passwort",
+        "description": ""
+    },
+	
+	"optionsPage_text8": {
+        "message": "Neues Passwort bestätigen",
+        "description": ""
+    },
+	
+	"optionsPage_js_text1": {
+        "message": "Passwort geändert",
+        "description": ""
+    },
+	
+	"optionsPage_js_text2": {
+        "message": "Fehler",
+        "description": ""
+    },
+	
+	"optionsPage_text9": {
+        "message": "Speichern",
+        "description": ""
+    },
+	
+	"optionsPage_text10": {
+        "message": "Sicherheitseinstellungen",
+        "description": ""
+    },
+	
+	"optionsPage_text11": {
+        "message": "Adult Block-Icon in der Erweiterungsleiste ausblenden",
+        "description": ""
+    },
+	
+	"passwordPage_text1": {
+        "message": "Bitte wählen Sie ein Passwort. Der Schutz durch ein Passwort verhindert den Zugriff auf gesperrte Inhalte durch ihr Kind.",
+        "description": ""
+    },
+	"passwordPage_text2": {
+        "message": "Neues Passwort",
+        "description": ""
+    },
+	"passwordPage_text3": {
+        "message": "Passwort wiederholen",
+        "description": ""
+    },
+	"passwordPage_text4": {
+        "message": "Passwort wiederholen",
+        "description": ""
+    },
+	"passwordPage_alert": {
+        "message": "Passwörter stimmen nicht überein",
+        "description": ""
+    },
+	"actionPopup_js_log8": {
+        "message": "Ungültiges Passwort",
+        "description": ""
+    }
+}
+

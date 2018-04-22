@@ -1,0 +1,237 @@
+{
+	"manifest_desc": {
+        "message": "Adult Blocker (Parental Control) blokuje dostęp do stron porno (treści dla dorosłych, pornografia).",
+        "description": ""
+    },
+    "actionPopup_site": {
+        "message": "Serwisu",
+        "description": ""
+    },
+
+    "actionPopup_status": {
+        "message": "Stan",
+        "description": ""
+    },
+
+    "actionPopup_exception": {
+        "message": "Wyjątki",
+        "description": ""
+    },
+
+    "actionPopup_enter_in": {
+        "message": "Dodaj swoją stronę",
+        "description": ""
+    },
+
+    "actionPopup_black_list": {
+        "message": "Blacklist",
+        "description": ""
+    },
+
+    "actionPopup_white_list": {
+        "message": "Biała lista",
+        "description": ""
+    },
+	
+    "actionPopup_mode_work": {
+        "message": "Tryb",
+        "description": ""
+    },
+
+    "actionPopup_enable": {
+        "message": "Włączone",
+        "description": ""
+    },
+
+    "actionPopup_change_mode": {
+        "message": "Edytuj",
+        "description": ""
+    },
+
+    "actionPopup_enable_plugin": {
+        "message": "Włącz plugin",
+        "description": ""
+    },
+
+    "actionPopup_disable_10_min": {
+        "message": "Wyłącz na 10 minut.",
+        "description": ""
+    },
+
+    "actionPopup_disable_30_min": {
+        "message": "Wyłącz na 30 minut.",
+        "description": ""
+    },
+
+    "actionPopup_disable_60_min": {
+        "message": "Wyłącz 1 godzina",
+        "description": ""
+    },
+
+    "actionPopup_enter_pass": {
+        "message": "Wprowadź hasło",
+        "description": ""
+    },
+
+    "actionPopup_locked_request": {
+        "message": "Blokowe wywołań",
+        "description": ""
+    },
+	
+    "actionPopup_js_log1": {
+        "message": "Nie zawiera żadnych zakazanych informacji",
+        "description": ""
+    },
+	
+    "actionPopup_js_log2": {
+        "message": "Zawiera informacje zakazane",
+        "description": ""
+    },
+	
+	"actionPopup_js_log3": {
+        "message": "dodany do czarnej listy",
+        "description": ""
+    },
+	
+	"actionPopup_js_log4": {
+        "message": "dodany do białej listy",
+        "description": ""
+    },
+	
+	"actionPopup_js_log5": {
+        "message": "Szukaj zbanowany informacje",
+        "description": ""
+    },
+
+	"actionPopup_js_log6": {
+        "message": "Wyłączone na",
+        "description": ""
+    },
+	
+    "actionPopup_js_log7": {
+        "message": "min.",
+        "description": ""
+    },
+	
+	"blockPage_text1": {
+        "message": "Odmowa Dostępu!",
+        "description": ""
+    },
+	
+	"blockPage_text2": {
+        "message": "Adult Blocker zamknięty dostęp do strony, ponieważ strona zawiera niedozwolone treści.",
+        "description": ""
+    },
+	
+	"blockPage_text3": {
+        "message": "U Adult Blocker posiada funkcję <b> «czarny» </b> i <b> «białe» listy </b> do zasobów internetowych przy podejmowaniu witryn w zbiorach danych, dostęp jest zablokowane lub dozwolone, niezależnie od inne ustawienia. Jeśli uważasz, że Twoje dziecko jest jeszcze zbyt wcześnie, aby usiąść w niektórych serwisach społecznościowych lub udać się do niektórych szczególnych miejsc - można je dodać do czarnej listy. Biała lista - odwrotna narzędzie, które pozwala, aby zobaczyć miejsca, które znalazły się pod filtr treści (były zamknięte plugin). Aby zmienić «czarne» i «białe» listy, naciśnij przycisk <i class='glyphicon glyphicon-Cog'> </i> w lewym górnym rogu.",
+        "description": ""
+    },
+	
+	"blockPage_text3a": {
+        "message": "Zobacz zakazane słowa",
+        "description": ""
+    },
+	
+	"blockPage_text4": {
+        "message": "Aby przeglądać serwis, dodaj go do wyjątków.",
+        "description": ""
+    },
+	
+
+	"blockPage_text5": {
+        "message": "Dodaj do białej listy",
+        "description": ""
+    },
+	
+	"optionsPage_text1": {
+        "message": "<b>Adult Blocker (Parental Control) </b> - ten limit dostępu dzieci i młodzieży do niepożądanych witryn internetowych, na przykład, porno (Adult content), miejsc, w których nie jest promowanie przemocy </p> <p> zaletą jest to, że plugin Adult Blocker zapewnia wnikliwą analizę treści i filtrować na stronie załadować zawartość, pozwalając na blokowanie wulgaryzmów, zapewniając tym samym lepszą ochronę dzieci.Produkt wykonuje analizy morfologicznej stron internetowych na obecność «złych» słów i zwrotów. </p> <p>Adult Blocker posiada funkcję <b> «czarny» </b> i <b> «białe» listy </b> do zasobów internetowych przy podejmowaniu witryn w zbiorach danych, dostęp do nich jest zablokowany lub dozwolony, niezależnie od innych ustawień filtrowania. Jeśli uważasz, że Twoje dziecko jest jeszcze zbyt wcześnie, aby usiąść w niektórych serwisach społecznościowych lub udać się do niektórych szczególnych miejsc - można je dodać do czarnej listy. Biała lista - odwrotna narzędzie, które pozwala, aby zobaczyć miejsca, które znalazły się pod filtr treści (były zamknięte plugin).",
+        "description": ""
+    },
+	
+	"optionsPage_text2": {
+        "message": "Wyjątki",
+        "description": ""
+    },
+	
+	"optionsPage_text3": {
+        "message": "Biała",
+        "description": ""
+    },
+	
+	"optionsPage_text4": {
+        "message": "Blacklist",
+        "description": ""
+    },
+	
+	"optionsPage_text5": {
+        "message": "Zmień hasło",
+        "description": ""
+    },
+	
+	"optionsPage_text6": {
+        "message": "Aktualne hasło",
+        "description": ""
+    },
+	
+	"optionsPage_text7": {
+        "message": "nowe hasło",
+        "description": ""
+    },
+	
+	"optionsPage_text8": {
+        "message": "Potwierdź hasło",
+        "description": ""
+    },
+	
+	"optionsPage_js_text1": {
+        "message": "Hasło zostało zmienione",
+        "description": ""
+    },
+	
+	"optionsPage_js_text2": {
+        "message": "Nieprawidłowe hasło lub hasła nie są identyczne",
+        "description": ""
+    },
+	
+	"optionsPage_text9": {
+        "message": "Zapisz",
+        "description": ""
+    },
+	
+	"optionsPage_text10": {
+        "message": "Ochrona",
+        "description": ""
+    },
+	
+	"optionsPage_text11": {
+        "message": "Ukryj ikonę Panel",
+        "description": ""
+    },
+	
+	"passwordPage_text1": {
+        "message": "Ustaw ochronę hasłem. Ochrona hasłem nie pozwala dziecku na ominięcie ograniczeń dostępu.",
+        "description": ""
+    },
+	"passwordPage_text2": {
+        "message": "Wybierz hasło",
+        "description": ""
+    },
+	"passwordPage_text3": {
+        "message": "Potwierdź hasło",
+        "description": ""
+    },
+	"passwordPage_text4": {
+        "message": "Zapisz",
+        "description": ""
+    },
+	"passwordPage_alert": {
+        "message": "Hasła nie są identyczne",
+        "description": ""
+    },
+	"actionPopup_js_log8": {
+        "message": "Nieprawidłowe hasło",
+        "description": ""
+    }
+}
+

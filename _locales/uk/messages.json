@@ -1,0 +1,237 @@
+{
+	"manifest_desc": {
+        "message": "Adult Blocker (Батьківський контроль) блокує доступ до порно сайтів (контенту для дорослих, порнографія).",
+        "description": ""
+    },
+    "actionPopup_site": {
+        "message": "Сайт",
+        "description": ""
+    },
+
+    "actionPopup_status": {
+        "message": "Статус",
+        "description": ""
+    },
+
+    "actionPopup_exception": {
+        "message": "Винятки",
+        "description": ""
+    },
+
+    "actionPopup_enter_in": {
+        "message": "Додати сайт в",
+        "description": ""
+    },
+
+    "actionPopup_black_list": {
+        "message": "чорний список",
+        "description": ""
+    },
+
+    "actionPopup_white_list": {
+        "message": "білий список",
+        "description": ""
+    },
+	
+    "actionPopup_mode_work": {
+        "message": "Режим роботи",
+        "description": ""
+    },
+
+    "actionPopup_enable": {
+        "message": "Включений",
+        "description": ""
+    },
+
+    "actionPopup_change_mode": {
+        "message": "Змінити режим роботи",
+        "description": ""
+    },
+
+    "actionPopup_enable_plugin": {
+        "message": "Включити плагін",
+        "description": ""
+    },
+
+    "actionPopup_disable_10_min": {
+        "message": "Відключити на 10 хв.",
+        "description": ""
+    },
+
+    "actionPopup_disable_30_min": {
+        "message": "Відключити на 30 хв.",
+        "description": ""
+    },
+
+    "actionPopup_disable_60_min": {
+        "message": "Відключити на 1 год.",
+        "description": ""
+    },
+
+    "actionPopup_enter_pass": {
+        "message": "Введіть пароль",
+        "description": ""
+    },
+
+    "actionPopup_locked_request": {
+        "message": "Заблоковано запитів",
+        "description": ""
+    },
+	
+    "actionPopup_js_log1": {
+        "message": "Не містить забороненої інформації",
+        "description": ""
+    },
+	
+    "actionPopup_js_log2": {
+        "message": "Содержит запрещенную информацию",
+        "description": ""
+    },
+	
+	"actionPopup_js_log3": {
+        "message": "Містить заборонену інформацію",
+        "description": ""
+    },
+	
+	"actionPopup_js_log4": {
+        "message": "Додано до білого списку",
+        "description": ""
+    },
+	
+	"actionPopup_js_log5": {
+        "message": "Пошук забороненої інформації",
+        "description": ""
+    },
+
+	"actionPopup_js_log6": {
+        "message": "Відключений на",
+        "description": ""
+    },
+	
+    "actionPopup_js_log7": {
+        "message": "хв.",
+        "description": ""
+    },
+	
+	"blockPage_text1": {
+        "message": "Доступ заборонений",
+        "description": ""
+    },
+	
+	"blockPage_text2": {
+        "message": "Adult Blocker закрив доступ до сторінки так як сторінка має заборонений контент.",
+        "description": ""
+    },
+	
+	"blockPage_text3": {
+        "message": "В Adult Blocker реалізована функція <b> «чорних» </b> і <b> «білих» списків </b> для інтернет ресурсів, при внесенні сайтів в дані набори, доступ до них блокується або дозволяється незалежно від інших налаштувань фільтрації. Якщо ви вважаєте, що дитині ще рано сидіти в певних соціальних мережах або заходити на якісь конкретні сайти - ви можете додати їх у чорний список. Білий список - зворотний інструмент, що дозволяє переглядати сайти які потрапили під фільтр вмісту (були заблоковані плагіном). Для зміни «чорних» і «білих» списків натисніть <i class = 'glyphicon glyphicon-cog'> </i> в лівому верхньому кутку.",
+        "description": ""
+    },
+	
+	"blockPage_text3a": {
+        "message": "Переглянути заборонені слова",
+        "description": ""
+    },
+	
+	"blockPage_text4": {
+        "message": "Для перегляду сайту додайте його в виняток.",
+        "description": ""
+    },
+	
+
+	"blockPage_text5": {
+        "message": "Додати в білий список",
+        "description": ""
+    },
+	
+	"optionsPage_text1": {
+        "message": "<b> Adult Blocker (Батьківський Контроль) </b> - це обмеження доступу дітей та підлітків до небажаних сайтів в Інтернет, наприклад, порно-сайтам (контент для дорослих), сайтам, де присутня пропаганда насильства. </p> <p> Перевага плагіна полягає в тому, що Adult Blocker проводить глибокий аналіз контенту і фільтрує сторінки по отриманого вмісту, дозволяючи блокувати нецензурні вирази, тим самим забезпечуючи кращий захист для ваших дітей. Продукт здійснює морфологічний аналіз веб-сторінок на наявність 'поганих' слів і словосполучень. </p> <p> В Adult Blocker реалізована функція <b> «чорних» </b> і <b> «білих» списків </b> для інтернет ресурсів, при внесенні сайтів в дані набори, доступ до них блокується або дозволяється незалежно від інших налаштувань фільтрації. Якщо ви вважаєте, що дитині ще рано сидіти в певних соціальних мережах або заходити на якісь конкретні сайти - ви можете додати їх у чорний список. Білий список - зворотний інструмент, що дозволяє переглядати сайти які потрапили під фільтр вмісту (були заблоковані плагіном).",
+        "description": ""
+    },
+	
+	"optionsPage_text2": {
+        "message": "Винятки",
+        "description": ""
+    },
+	
+	"optionsPage_text3": {
+        "message": "Білий список",
+        "description": ""
+    },
+	
+	"optionsPage_text4": {
+        "message": "Чорний список",
+        "description": ""
+    },
+	
+	"optionsPage_text5": {
+        "message": "Змінити пароль",
+        "description": ""
+    },
+	
+	"optionsPage_text6": {
+        "message": "Поточний пароль",
+        "description": ""
+    },
+	
+	"optionsPage_text7": {
+        "message": "Новий пароль",
+        "description": ""
+    },
+	
+	"optionsPage_text8": {
+        "message": "Підтвердження пароля",
+        "description": ""
+    },
+	
+	"optionsPage_js_text1": {
+        "message": "Пароль змінений",
+        "description": ""
+    },
+	
+	"optionsPage_js_text2": {
+        "message": "Невірний пароль або паролі не збігаються",
+        "description": ""
+    },
+	
+	"optionsPage_text9": {
+        "message": "Зберегти",
+        "description": ""
+    },
+	
+	"optionsPage_text10": {
+        "message": "Захист",
+        "description": ""
+    },
+	
+	"optionsPage_text11": {
+        "message": "Приховати іконку з панелі",
+        "description": ""
+    },
+	
+	"passwordPage_text1": {
+        "message": "Встановіть захист паролем. Захист паролем не дає можливість дитині обійти обмеження доступу.",
+        "description": ""
+    },
+	"passwordPage_text2": {
+        "message": "Придумайте пароль",
+        "description": ""
+    },
+	"passwordPage_text3": {
+        "message": "Повторіть пароль",
+        "description": ""
+    },
+	"passwordPage_text4": {
+        "message": "Зберегти",
+        "description": ""
+    },
+	"passwordPage_alert": {
+        "message": "Паролі не співпадають",
+        "description": ""
+    },
+	"actionPopup_js_log8": {
+        "message": "Невірний пароль",
+        "description": ""
+    }
+}
+

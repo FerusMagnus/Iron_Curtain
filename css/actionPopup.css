@@ -1,0 +1,65 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+img {
+  float: left;
+}
+
+.row {
+  display: inline-block;
+  vertical-align: top;
+}
+
+#toolbarRow {
+  white-space: nowrap;
+}
+
+#searchRow {
+  height: 26px;
+}
+
+.pageIcon {
+  display: inline;
+  position: absolute;
+}
+
+body {
+  overflow: hidden;
+}
+
+.item {
+}
+
+#title {
+}
+
+#close {
+}
+
+#searchLabel {
+}
+
+#searchInputItem {
+}
+
+#search-input {
+  height: 22px;
+  margin-top: 2px;
+}
+
+#searchButtonItem {
+}
+
+#page-related-data {
+}
+
+.eye { cursor: default !important;}
+
+.row {
+    display: inline-block;
+    vertical-align: top;
+    zoom: 1;
+    *display: inline;
+}

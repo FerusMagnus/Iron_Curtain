@@ -1,0 +1,237 @@
+{
+	"manifest_desc": {
+        "message": "Adult Blocker (Parental Control) bloqueia o acesso a site pornográficos (conteúdo adulto, pornografia).",
+        "description": ""
+    },
+    "actionPopup_site": {
+        "message": "Site",
+        "description": ""
+    },
+
+    "actionPopup_status": {
+        "message": "Status",
+        "description": ""
+    },
+
+    "actionPopup_exception": {
+        "message": "Exceções",
+        "description": ""
+    },
+
+    "actionPopup_enter_in": {
+        "message": "Adicionar este site a",
+        "description": ""
+    },
+
+    "actionPopup_black_list": {
+        "message": "Lista Negra",
+        "description": ""
+    },
+
+    "actionPopup_white_list": {
+        "message": "Lista Branca",
+        "description": ""
+    },
+	
+    "actionPopup_mode_work": {
+        "message": "Modo",
+        "description": ""
+    },
+
+    "actionPopup_enable": {
+        "message": "Ativado",
+        "description": ""
+    },
+
+    "actionPopup_change_mode": {
+        "message": "Editar modo",
+        "description": ""
+    },
+
+    "actionPopup_enable_plugin": {
+        "message": "Ativar",
+        "description": ""
+    },
+
+    "actionPopup_disable_10_min": {
+        "message": "Desabilitar por 10 min.",
+        "description": ""
+    },
+
+    "actionPopup_disable_30_min": {
+        "message": "Desabilitar por 30 min.",
+        "description": ""
+    },
+
+    "actionPopup_disable_60_min": {
+        "message": "Desabilitar por 1 hora.",
+        "description": ""
+    },
+
+    "actionPopup_enter_pass": {
+        "message": "Digite a Senha",
+        "description": ""
+    },
+
+    "actionPopup_locked_request": {
+        "message": "Itens Bloqueados",
+        "description": ""
+    },
+	
+    "actionPopup_js_log1": {
+        "message": "Site livre de palavras e conteúdo ofensivo",
+        "description": ""
+    },
+	
+    "actionPopup_js_log2": {
+        "message": "Contém informações proibidas",
+        "description": ""
+    },
+	
+	"actionPopup_js_log3": {
+        "message": "Este site foi adicionado à Lista Negra",
+        "description": ""
+    },
+	
+	"actionPopup_js_log4": {
+        "message": "Este site foi adicionado à Lista Branca",
+        "description": ""
+    },
+	
+	"actionPopup_js_log5": {
+        "message": "Buscou informações banidas",
+        "description": ""
+    },
+
+	"actionPopup_js_log6": {
+        "message": "Desativado por",
+        "description": ""
+    },
+	
+    "actionPopup_js_log7": {
+        "message": "min.",
+        "description": ""
+    },
+	
+	"blockPage_text1": {
+        "message": "Acesso Negado!",
+        "description": ""
+    },
+	
+	"blockPage_text2": {
+        "message": "O Adult Blocker bloqueou essa página porque ela tem um conteúdo que foi proibido.",
+        "description": ""
+    },
+	
+	"blockPage_text3": {
+        "message": "Adult Blocker tem uma função <b>«LISTA NEGRA»</b> e <b>«LISTA BRANCA»</b> que são recursos do plugin para determinar, manualmente, se um site será bloqueado ou permitido, independentemente de outras configurações de filtragem que já estejam configuradas no plugin. Se você acha que seu filho ainda não tem idade para entrar em determinadas redes sociais ou ir a alguns sites específicos, você pode adicionar o site à lista negra ou BLACKLIST. A Lista Branca ou WHITELIST é o contrário da BLACKLIST, essa opção permite visualizar sites que são bloqueados pelo filtro de conteúdo do plugin, mas que você acha que não precisa ser bloqueado. Para alterar a LISTA NEGRA ou LISTA BRANCA, clique no <i class='glyphicon glyphicon-cog'> </i> no canto superior direito.",
+        "description": ""
+    },
+	
+	"blockPage_text3a": {
+        "message": "Ver as palavras proibidas",
+        "description": ""
+    },
+	
+	"blockPage_text4": {
+        "message": "Para ver esse site, coloque-o na LISTA BRANCA ou desabilite o plugin.",
+        "description": ""
+    },
+	
+
+	"blockPage_text5": {
+        "message": "Adicionar a lista branca",
+        "description": ""
+    },
+	
+	"optionsPage_text1": {
+        "message": "<b>Adult Blocker (Parental Control)</b> - Este plugin limita o acesso de crianças e adolescentes a sites indesejáveis ao acessar a Internet, por exemplo, sites pornográficos (conteúdo adulto), sites que incentivam a violência e etc.</p> <p>A vantagem do Adult Blocker é que ele fornece uma análise criteriosa do conteúdo e filtra a página antes de ela carregar o conteúdo, o que permite ao Adult Blocker bloquear palavrões, proporcionando assim uma melhor proteção para os seus filhos. O produto realiza a análise morfológica de páginas da web para detectar a presença de palavras e frases negativas.</p> <p> No Adult Blocker tem uma função <b>«LISTA NEGRA»</b> e <b>«LISTA BRANCA»</b> que são recursos do plugin para determinar, manualmente, se um site será bloqueado ou permitido, independentemente de outras configurações de filtragem que já estejam configuradas no plugin.</p><p>Exemplo: Se você acha que seu filho ainda não tem idade para entrar em determinadas redes sociais ou ir a alguns sites específicos, você pode adicionar o site à LISTA NEGRA. A LISTA BRANCA é o contrário da LISTA NEGRA, a LISTA BRANCA permite visualizar sites que são bloqueados pelo filtro de conteúdo do plugin, mas que você acha que não precisa ser bloqueado.",
+        "description": ""
+    },
+	
+	"optionsPage_text2": {
+        "message": "Exceções",
+        "description": ""
+    },
+	
+	"optionsPage_text3": {
+        "message": "Lista Branca",
+        "description": ""
+    },
+	
+	"optionsPage_text4": {
+        "message": "Lista Negra",
+        "description": ""
+    },
+	
+	"optionsPage_text5": {
+        "message": "Trocar Senha",
+        "description": ""
+    },
+	
+	"optionsPage_text6": {
+        "message": "Senha atual",
+        "description": ""
+    },
+	
+	"optionsPage_text7": {
+        "message": "Nova senha",
+        "description": ""
+    },
+	
+	"optionsPage_text8": {
+        "message": "Confirmar Senha",
+        "description": ""
+    },
+	
+	"optionsPage_js_text1": {
+        "message": "A senha foi trocada",
+        "description": ""
+    },
+	
+	"optionsPage_js_text2": {
+        "message": "Senha incorreta ou Senhas não conferem",
+        "description": ""
+    },
+	
+	"optionsPage_text9": {
+        "message": "Salvar",
+        "description": ""
+    },
+	
+	"optionsPage_text10": {
+        "message": "Proteção",
+        "description": ""
+    },
+	
+	"optionsPage_text11": {
+        "message": "Esconder ícone",
+        "description": ""
+    },
+	
+	"passwordPage_text1": {
+        "message": "Ativar senha de proteção. A senha de proteção não vai permitir que uma criança ou adolescente burle as restrições impostas por você.",
+        "description": ""
+    },
+	"passwordPage_text2": {
+        "message": "Criar Senha",
+        "description": ""
+    },
+	"passwordPage_text3": {
+        "message": "Confirmar Senha",
+        "description": ""
+    },
+	"passwordPage_text4": {
+        "message": "Salvar Senha",
+        "description": ""
+    },
+	"passwordPage_alert": {
+        "message": "Senhas não conferem",
+        "description": ""
+    },
+	"actionPopup_js_log8": {
+        "message": "Senha inválida",
+        "description": ""
+    }
+}
+

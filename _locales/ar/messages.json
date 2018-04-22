@@ -1,0 +1,241 @@
+{
+	"manifest_desc": {
+        "message": "التحكم بالمحتوى الإباحي (التحكم الأبوي) يمنع الدخول للمواقع الإباحية.",
+        "description": ""
+    },
+    "actionPopup_site": {
+        "message": "الموقع",
+        "description": ""
+    },
+
+    "actionPopup_status": {
+        "message": "الحالة",
+        "description": ""
+    },
+
+    "actionPopup_exception": {
+        "message": "استثناءات‏",
+        "description": ""
+    },
+
+    "actionPopup_enter_in": {
+        "message": "أضف هذا الموقع إلى",
+        "description": ""
+    },
+
+    "actionPopup_black_list": {
+        "message": "القائمة السوداء",
+        "description": ""
+    },
+
+    "actionPopup_white_list": {
+        "message": "القائمة البيضاء",
+        "description": ""
+    },
+	
+    "actionPopup_mode_work": {
+        "message": "وضع الإضافة",
+        "description": ""
+    },
+
+    "actionPopup_enable": {
+        "message": "مقيقة",
+        "description": ""
+    },
+
+    "actionPopup_change_mode": {
+        "message": "تعديل وضع الإضافة",
+        "description": ""
+    },
+
+    "actionPopup_enable_plugin": {
+        "message": "تفعيل الإضافة",
+        "description": ""
+    },
+
+    "actionPopup_disable_10_min": {
+        "message": "تعطيل لـ10 دقائق",
+        "description": ""
+    },
+
+    "actionPopup_disable_30_min": {
+        "message": "تعطيل لـ30 دقيقة",
+        "description": ""
+    },
+
+    "actionPopup_disable_60_min": {
+        "message": "تعطيل لمدة ساعة",
+        "description": ""
+    },
+
+    "actionPopup_enter_pass": {
+        "message": "ادخل كلمة السر",
+        "description": ""
+    },
+
+    "actionPopup_locked_request": {
+        "message": "التحميلات المحظورة",
+        "description": ""
+    },
+	
+    "actionPopup_js_log1": {
+        "message": "لا تحتوي على أي معلومات ممنوعة",
+        "description": ""
+    },
+	
+    "actionPopup_js_log2": {
+        "message": "تحتوي على معلومات ممنوعة",
+        "description": ""
+    },
+	
+	"actionPopup_js_log3": {
+        "message": "تمت الإضافة للقائمة السوداء",
+        "description": ""
+    },
+	
+	"actionPopup_js_log4": {
+        "message": "تمت الإضافة للقائمة البيضاء",
+        "description": ""
+    },
+	
+	"actionPopup_js_log5": {
+        "message": "البحث عن معلومات ممنوعة",
+        "description": ""
+    },
+
+	"actionPopup_js_log6": {
+        "message": "عدم التفعيل بعد ",
+        "description": ""
+    },
+	
+    "actionPopup_js_log7": {
+        "message": "دقيقة",
+        "description": ""
+    },
+	
+	"blockPage_text1": {
+        "message": "تم منع الدخول",
+        "description": ""
+    },
+	
+	"blockPage_text2": {
+        "message": "قام Adult blocker بمنع الدخول لهذه الصفحة لاحتوائها على محتوى محظور.",
+        "description": ""
+    },
+	
+	"blockPage_text3": {
+        "message": "يحتوي Adult Blocker على ميزة القوائم 'البيضاء' و 'السوداء'ليساعد المستخدم في تحديد أي المواقع يجب منعه أو السماح له بالتحميل, بغض النظر عن آليات المراقبة الأخرى, فإن كنت تظن أن طفلك لا يزال صغيراً للدخول على شبكات اجتماعية معينة او مواقع بعينها يمكنك أن تضيفها ببساطة إلى القائمة السوداء بينما ستساعدك القائمة البيضاء على السماح بمواقع كانت ضمن المواقع المحظورة . لتعديل القوائم السوداء والبيضاء برجاء الضغط على أيقونة الإضافة بالزاوية العلوية.",
+        "description": ""
+    },
+	
+	"blockPage_text3a": {
+        "message": "اظهر الكلمات الممنوعة",
+        "description": ""
+    },
+	
+	"blockPage_text4": {
+        "message": "للإطلاع على الموقع, قم بإضافتها للإستثناءات",
+        "description": ""
+    },
+	
+
+	"blockPage_text5": {
+        "message": "اضف للقائمة البيضاء",
+        "description": ""
+    },
+	
+	"optionsPage_text1": {
+        "message": "يساعد Adult Blocker في الحد من تعرض الأطفال والمراهقين للمواقع الغير مرغوب فيها على الانترنت كالمواقع الإباحية والمواقع التي تُروج للعنف والبذاءة. تُعَد من مميزات Adult Blocker أنه يقوم بتحليل محتوى الصفحة تحليلا نصّيا للكشف عن وجود كلمات وعبارات 'سيئة' وبناءً عليه يرشّح إمكانية تحميل الصفحة من عدمه مما يساعدك على منع المحتوى الغير مرغوب فيه, وهو ما يعني بالضرورة المزيد من الحماية لأطفالك. كما يحتوي Adult Blocker على ميزة القوائم 'البيضاء' و 'السوداء'ليساعد المستخدم في تحديد أي المواقع يجب منعه أو السماح له بالتحميل, بغض النظر عن آليات المراقبة الأخرى, فإن كنت تظن أن طفلك لا يزال صغيراً للدخول على شبكات اجتماعية معينة او مواقع بعينها يمكنك أن تضيفها ببساطة إلى القائمة السوداء بينما ستساعدك القائمة البيضاء على السماح بمواقع كانت تقع تحت بند المواقع المحظورة أصلاً.",
+        "description": ""
+    },
+	
+	"optionsPage_text2": {
+        "message": "استثناءات‏",
+        "description": ""
+    },
+	
+	"optionsPage_text3": {
+        "message": "القائمة البيضاء:",
+        "description": ""
+    },
+	
+	"optionsPage_text4": {
+        "message": "القائمة السوداء:",
+        "description": ""
+    },
+	
+	"optionsPage_text5": {
+        "message": "تغيير كلمة السر",
+        "description": ""
+    },
+	
+	"optionsPage_text6": {
+        "message": "كلمة السر الحالية",
+        "description": ""
+    },
+	
+	"optionsPage_text7": {
+        "message": "كلمة السر الجديدة",
+        "description": ""
+    },
+	
+	"optionsPage_text8": {
+        "message": "تأكيد كلمة السر",
+        "description": ""
+    },
+	
+	"optionsPage_js_text1": {
+        "message": "تم تغيير كلمة السر",
+        "description": ""
+    },
+	
+	"optionsPage_js_text2": {
+        "message": "كلمة السر غير صحيحة او غير متطابقة",
+        "description": ""
+    },
+	
+	"optionsPage_text9": {
+        "message": "حفظ",
+        "description": ""
+    },
+	
+	"optionsPage_text10": {
+        "message": "الحماية",
+        "description": ""
+    },
+	
+	"optionsPage_text11": {
+        "message": "إخفاء الأيقونة",
+        "description": ""
+    },
+	
+	"actionPopup_js_log61": {
+        "message": "عدم التفعيل بعد ",
+        "description": ""
+    },
+	"passwordPage_text1": {
+        "message": "اضبط كلمة السر لمنع الطفل من تخطي القيود.",
+        "description": ""
+    },
+	"passwordPage_text2": {
+        "message": "اكتب كلمة السر",
+        "description": ""
+    },
+	"passwordPage_text3": {
+        "message": "تأكيد كلمة السر",
+        "description": ""
+    },
+	"passwordPage_text4": {
+        "message": "حفظ",
+        "description": ""
+    },
+	"passwordPage_alert": {
+        "message": "كلمة السر غير متطابقة",
+        "description": ""
+    },
+	"actionPopup_js_log8": {
+        "message": "كلمة السر غير صالحة",
+        "description": ""
+    }
+}
+

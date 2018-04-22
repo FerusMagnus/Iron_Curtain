@@ -1,0 +1,237 @@
+{
+	"manifest_desc": {
+        "message": "Adult Blocker (Parental Control) bloquea el acceso a sitios de pornografía (contenido para adultos, pornografía).",
+        "description": ""
+    },
+    "actionPopup_site": {
+        "message": "Sitio",
+        "description": ""
+    },
+
+    "actionPopup_status": {
+        "message": "Estado",
+        "description": ""
+    },
+
+    "actionPopup_exception": {
+        "message": "Excepciones",
+        "description": ""
+    },
+
+    "actionPopup_enter_in": {
+        "message": "Agregue su sitio web",
+        "description": ""
+    },
+
+    "actionPopup_black_list": {
+        "message": "lista negra",
+        "description": ""
+    },
+
+    "actionPopup_white_list": {
+        "message": "lista blanca",
+        "description": ""
+    },
+	
+    "actionPopup_mode_work": {
+        "message": "Modo",
+        "description": ""
+    },
+
+    "actionPopup_enable": {
+        "message": "Habilitado",
+        "description": ""
+    },
+
+    "actionPopup_change_mode": {
+        "message": "Editar",
+        "description": ""
+    },
+
+    "actionPopup_enable_plugin": {
+        "message": "Habilitar plug-in",
+        "description": ""
+    },
+
+    "actionPopup_disable_10_min": {
+        "message": "Desactivar durante 10 minutos",
+        "description": ""
+    },
+
+    "actionPopup_disable_30_min": {
+        "message": "Desactivar durante 30 minutos",
+        "description": ""
+    },
+
+    "actionPopup_disable_60_min": {
+        "message": "Desactivar 1 hora",
+        "description": ""
+    },
+
+    "actionPopup_enter_pass": {
+        "message": "Introduzca la contraseña",
+        "description": ""
+    },
+
+    "actionPopup_locked_request": {
+        "message": "Bloque peticiones",
+        "description": ""
+    },
+	
+    "actionPopup_js_log1": {
+        "message": "No contiene ninguna información prohibida",
+        "description": ""
+    },
+	
+    "actionPopup_js_log2": {
+        "message": "Contiene información prohibida",
+        "description": ""
+    },
+	
+	"actionPopup_js_log3": {
+        "message": "Añade a la lista negro",
+        "description": ""
+    },
+	
+	"actionPopup_js_log4": {
+        "message": "Añade a la lista blanca",
+        "description": ""
+    },
+	
+	"actionPopup_js_log5": {
+        "message": "Buscar prohibido información",
+        "description": ""
+    },
+
+	"actionPopup_js_log6": {
+        "message": "Desactivado en",
+        "description": ""
+    },
+	
+    "actionPopup_js_log7": {
+        "message": "min.",
+        "description": ""
+    },
+	
+	"blockPage_text1": {
+        "message": "Acceso Denegado!",
+        "description": ""
+    },
+	
+	"blockPage_text2": {
+        "message": "Adult Blocker cerrado el acceso a la página porque la página tiene un contenido prohibido.",
+        "description": ""
+    },
+	
+	"blockPage_text3": {
+        "message": "En Adult Blocker tiene una función <b> «negro» </b> y <b> «listas blancas» </b> a los recursos en línea al hacer sitios en los conjuntos de datos, el acceso está bloqueado o permitido, independientemente de otros ajustes de filtro. Si usted piensa que su hijo es todavía demasiado temprano para sentarse en unas determinadas redes sociales o ir a algunos sitios específicos - puede agregarlos a la lista negra. Lista Blanca - herramienta inversa que le permite ver los sitios que cayeron bajo el filtro de contenido (fueron encerrados plugin). Para cambiar la listas «blancas», presione <i class='glyphicon glyphicon-cog'></i> en la esquina superior izquierda. ",
+        "description": ""
+    },
+	
+	"blockPage_text3a": {
+        "message": "Ver prohibido palabras",
+        "description": ""
+    },
+	
+	"blockPage_text4": {
+        "message": "Para ver el sitio, añadirlo a la excepción.",
+        "description": ""
+    },
+	
+
+	"blockPage_text5": {
+        "message": "Añadir a la lista blanca",
+        "description": ""
+    },
+	
+	"optionsPage_text1": {
+        "message": "<b>Adult Blocker (Parental Control) </b> - este límite el acceso de los niños y adolescentes a sitios no deseados en Internet, por ejemplo, los sitios de pornografía (contenido para adultos), sitios donde hay una promoción de la violencia </p> <p> la ventaja del plugin es que de Adult Blocker ofrece un análisis profundo del contenido y filtrar la página para cargar contenido, lo que le permite bloquear la blasfemia, proporcionando así una mejor protección para sus hijos. El producto realiza el análisis morfológico de las páginas web de la presencia de «alas» palabras y frases. </p> <p> En Adult Blocker tiene una función <b> «negro» </b> y <b> «listas blancas» </b> a recursos en línea al hacer sitios en los conjuntos de datos, el acceso a ellos está bloqueado o permitido, independientemente de otros ajustes de filtrado. Si usted piensa que su hijo es todavía demasiado temprano para sentarse en unas determinadas redes sociales o ir a algunos sitios específicos - puede agregarlos a la lista negra. Lista Blanca - herramienta inversa que le permite ver los sitios que cayeron bajo el filtro de contenido (fueron encerrados plugin).",
+        "description": ""
+    },
+	
+	"optionsPage_text2": {
+        "message": "Excepciones",
+        "description": ""
+    },
+	
+	"optionsPage_text3": {
+        "message": "Lista blanca",
+        "description": ""
+    },
+	
+	"optionsPage_text4": {
+        "message": "Blacklist",
+        "description": ""
+    },
+	
+	"optionsPage_text5": {
+        "message": "Cambiar contraseña",
+        "description": ""
+    },
+	
+	"optionsPage_text6": {
+        "message": "Contraseña actual",
+        "description": ""
+    },
+	
+	"optionsPage_text7": {
+        "message": "Nueva contraseña",
+        "description": ""
+    },
+	
+	"optionsPage_text8": {
+        "message": "Confirmar contraseña",
+        "description": ""
+    },
+	
+	"optionsPage_js_text1": {
+        "message": "Contraseña cambiada",
+        "description": ""
+    },
+	
+	"optionsPage_js_text2": {
+        "message": "Contraseña no válida o contraseñas no coinciden",
+        "description": ""
+    },
+	
+	"optionsPage_text9": {
+        "message": "Guardar",
+        "description": ""
+    },
+	
+	"optionsPage_text10": {
+        "message": "Protección",
+        "description": ""
+    },
+	
+	"optionsPage_text11": {
+        "message": "Ocultar icono del panel",
+        "description": ""
+    },
+	
+	"passwordPage_text1": {
+        "message": "Ajuste la protección de contraseña. Protección por contraseña no permita que un niño de eludir las restricciones de acceso.",
+        "description": ""
+    },
+	"passwordPage_text2": {
+        "message": "Elija una contraseña",
+        "description": ""
+    },
+	"passwordPage_text3": {
+        "message": "Confirmar contraseña",
+        "description": ""
+    },
+	"passwordPage_text4": {
+        "message": "Guardar",
+        "description": ""
+    },
+	"passwordPage_alert": {
+        "message": "Las contraseñas no coinciden",
+        "description": ""
+    },
+	"actionPopup_js_log8": {
+        "message": "contraseña no válida",
+        "description": ""
+    }
+}
+

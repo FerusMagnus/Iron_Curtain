@@ -1,0 +1,237 @@
+{
+	"manifest_desc": {
+        "message": "Iron Curtain блокирует доступ к запрещённым и нежелательным сайтам.",
+        "description": ""
+    },
+    "actionPopup_site": {
+        "message": "Сайт",
+        "description": ""
+    },
+
+    "actionPopup_status": {
+        "message": "Статус",
+        "description": ""
+    },
+
+    "actionPopup_exception": {
+        "message": "Исключения",
+        "description": ""
+    },
+
+    "actionPopup_enter_in": {
+        "message": "Добавить сайт в",
+        "description": ""
+    },
+
+    "actionPopup_black_list": {
+        "message": "черный список",
+        "description": ""
+    },
+
+    "actionPopup_white_list": {
+        "message": "белый список",
+        "description": ""
+    },
+	
+    "actionPopup_mode_work": {
+        "message": "Режим работы",
+        "description": ""
+    },
+
+    "actionPopup_enable": {
+        "message": "Включен",
+        "description": ""
+    },
+
+    "actionPopup_change_mode": {
+        "message": "Изменить режим работы",
+        "description": ""
+    },
+
+    "actionPopup_enable_plugin": {
+        "message": "Включить плагин",
+        "description": ""
+    },
+
+    "actionPopup_disable_10_min": {
+        "message": "Отключить на 10 мин.",
+        "description": ""
+    },
+
+    "actionPopup_disable_30_min": {
+        "message": "Отключить на 30 мин.",
+        "description": ""
+    },
+
+    "actionPopup_disable_60_min": {
+        "message": "Отключить на 1 час",
+        "description": ""
+    },
+
+    "actionPopup_enter_pass": {
+        "message": "Введите пароль",
+        "description": ""
+    },
+
+    "actionPopup_locked_request": {
+        "message": "Заблокировано запросов",
+        "description": ""
+    },
+	
+    "actionPopup_js_log1": {
+        "message": "Не содержит запрещенной информации",
+        "description": ""
+    },
+	
+    "actionPopup_js_log2": {
+        "message": "Содержит запрещенную информацию",
+        "description": ""
+    },
+	
+	"actionPopup_js_log3": {
+        "message": "Добавлен в черный список",
+        "description": ""
+    },
+	
+	"actionPopup_js_log4": {
+        "message": "Добавлен в белый список",
+        "description": ""
+    },
+	
+	"actionPopup_js_log5": {
+        "message": "Поиск запрещенной информации",
+        "description": ""
+    },
+
+	"actionPopup_js_log6": {
+        "message": "Отключен на",
+        "description": ""
+    },
+	
+    "actionPopup_js_log7": {
+        "message": "мин.",
+        "description": ""
+    },
+	
+	"blockPage_text1": {
+        "message": "Доступ запрещен",
+        "description": ""
+    },
+	
+	"blockPage_text2": {
+        "message": "Iron Curtain закрыл доступ к странице так как в ней содержится запрещенный контент.",
+        "description": ""
+    },
+	
+	"blockPage_text3": {
+        "message": "В Iron Curtain реализована функция <b>«черных»</b> и <b>«белых» списков</b> для интернет ресурсов, при внесении сайтов в данные наборы, доступ к ним блокируется или разрешается независимо от других настроек фильтрации. Для изменения списков нажмите <i class='glyphicon glyphicon-cog'></i> в левом верхнем углу.",
+        "description": ""
+    },
+	
+	"blockPage_text3a": {
+        "message": "Посмотреть запрещенные слова",
+        "description": ""
+    },
+	
+	"blockPage_text4": {
+        "message": "Для просмотра сайта добавьте его в исключение.",
+        "description": ""
+    },
+	
+
+	"blockPage_text5": {
+        "message": "Добавить в белый список",
+        "description": ""
+    },
+	
+	"optionsPage_text1": {
+        "message": "<b>Настройки плагина Iron Curtain.</b> Здесь вы можете ознакомиться с текущими настройками плагина и изменить их по своему усмотрению.",
+        "description": ""
+    },
+	
+	"optionsPage_text2": {
+        "message": "Исключения",
+        "description": ""
+    },
+	
+	"optionsPage_text3": {
+        "message": "Белый список",
+        "description": ""
+    },
+	
+	"optionsPage_text4": {
+        "message": "Черный список",
+        "description": ""
+    },
+	
+	"optionsPage_text5": {
+        "message": "Сменить пароль",
+        "description": ""
+    },
+	
+	"optionsPage_text6": {
+        "message": "Текущий пароль",
+        "description": ""
+    },
+	
+	"optionsPage_text7": {
+        "message": "Новый пароль",
+        "description": ""
+    },
+	
+	"optionsPage_text8": {
+        "message": "Подтверждение пароля",
+        "description": ""
+    },
+	
+	"optionsPage_js_text1": {
+        "message": "Пароль изменён",
+        "description": ""
+    },
+	
+	"optionsPage_js_text2": {
+        "message": "Неверный пароль или пароли не совпадают",
+        "description": ""
+    },
+	
+	"optionsPage_text9": {
+        "message": "Сохранить",
+        "description": ""
+    },
+	
+	"optionsPage_text10": {
+        "message": "Защита",
+        "description": ""
+    },
+	
+	"optionsPage_text11": {
+        "message": "Скрыть иконку с панели",
+        "description": ""
+    },
+	
+	"passwordPage_text1": {
+        "message": "Установите защиту паролем. Защита паролем не позволяет обойти ограничения доступа.",
+        "description": ""
+    },
+	"passwordPage_text2": {
+        "message": "Придумайте пароль",
+        "description": ""
+    },
+	"passwordPage_text3": {
+        "message": "Повторите пароль",
+        "description": ""
+    },
+	"passwordPage_text4": {
+        "message": "Сохранить",
+        "description": ""
+    },
+	"passwordPage_alert": {
+        "message": "Пароли не совпадают",
+        "description": ""
+    },
+	"actionPopup_js_log8": {
+        "message": "Неверный пароль",
+        "description": ""
+    }
+}
+

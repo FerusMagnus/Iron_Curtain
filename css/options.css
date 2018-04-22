@@ -1,0 +1,7 @@
+.container { width: 900px !important;}
+.panel-heading { background-color: CadetBlue; color: Black;}
+.panel-body { border: 1px solid CadetBlue; }
+.glyphicon-adult { width:19px; height: 19px; vertical-align: text-bottom; background: url(../images/icon-19-white.png) no-repeat;}
+
+.icon-delete { margin: 0px 0 0 10px; vertical-align: text-top;}
+.form-checkbox { margin: 6px 0 0 0 !important; width: 20px; height: 20px;}

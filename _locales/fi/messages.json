@@ -1,0 +1,241 @@
+{
+	"manifest_desc": {
+        "message": "Adult Blocker (Lapsilukko) estää pääsyn pornosivuille (aikuisviihde).",
+        "description": ""
+    },
+    "actionPopup_site": {
+        "message": "Sivu",
+        "description": ""
+    },
+
+    "actionPopup_status": {
+        "message": "Tila",
+        "description": ""
+    },
+
+    "actionPopup_exception": {
+        "message": "Poikkeukset",
+        "description": ""
+    },
+
+    "actionPopup_enter_in": {
+        "message": "Lisää tämä sivusto",
+        "description": ""
+    },
+
+    "actionPopup_black_list": {
+        "message": "Musta lista",
+        "description": ""
+    },
+
+    "actionPopup_white_list": {
+        "message": "Sallitut lista",
+        "description": ""
+    },
+	
+    "actionPopup_mode_work": {
+        "message": "Toimintatila",
+        "description": ""
+    },
+
+    "actionPopup_enable": {
+        "message": "Käytössä",
+        "description": ""
+    },
+
+    "actionPopup_change_mode": {
+        "message": "Muuta tilaa",
+        "description": ""
+    },
+
+    "actionPopup_enable_plugin": {
+        "message": "Ota käyttöön",
+        "description": ""
+    },
+
+    "actionPopup_disable_10_min": {
+        "message": "Poista käytöstä 10 min",
+        "description": ""
+    },
+
+    "actionPopup_disable_30_min": {
+        "message": "Poista käytöstä 30 min.",
+        "description": ""
+    },
+
+    "actionPopup_disable_60_min": {
+        "message": "Poista käytöstä 1 tunti",
+        "description": ""
+    },
+
+    "actionPopup_enter_pass": {
+        "message": "Anna salasana",
+        "description": ""
+    },
+
+    "actionPopup_locked_request": {
+        "message": "Estetyt sivupyynnöt",
+        "description": ""
+    },
+	
+    "actionPopup_js_log1": {
+        "message": "Ei sisällä estettyä sisältöä",
+        "description": ""
+    },
+	
+    "actionPopup_js_log2": {
+        "message": "Sisältää kiellettyä sisältöä",
+        "description": ""
+    },
+	
+	"actionPopup_js_log3": {
+        "message": "Lisätty mustalle listalle",
+        "description": ""
+    },
+	
+	"actionPopup_js_log4": {
+        "message": "Lisätty sallitut listalle",
+        "description": ""
+    },
+	
+	"actionPopup_js_log5": {
+        "message": "Etsi kiellettyä sisältöä",
+        "description": ""
+    },
+
+	"actionPopup_js_log6": {
+        "message": "Pois käytöstä ",
+        "description": ""
+    },
+	
+    "actionPopup_js_log7": {
+        "message": "min",
+        "description": ""
+    },
+	
+	"blockPage_text1": {
+        "message": "Pääsy kielletty!",
+        "description": ""
+    },
+	
+	"blockPage_text2": {
+        "message": "Adult Blocker estää pääsyn sivustolle, koska se sisältää kiellettyä aineistoa.",
+        "description": ""
+    },
+	
+	"blockPage_text3": {
+        "message": "Adult Blocker sisältää toiminnon, jonka avulla «musta» ja «sallittu» lista määrittää onko jonkin sivuston sisältö estetty vai sallittu riippumatta muista suodattimen asetuksista. Jos mielestäsi lapsi on liian nuori liittymään tiettyihin sosiaalisen median palveluihin tai pääsemään tietyille sivuille – voit lisätä ne mustalle listalle. Sallitut lista on käänteinen toiminto, jonka avulla voit sallia sivustoja, jotka suodatin sivun sisällön vuoksi muuten kieltää. Muuttaaksesi mustan ja sallitut listan asetuksia, paina <i class='glyphicon glyphicon-cog'> </i> oikeasta yläkulmasta.",
+        "description": ""
+    },
+	
+	"blockPage_text3a": {
+        "message": "Näytä kielletyt sanat",
+        "description": ""
+    },
+	
+	"blockPage_text4": {
+        "message": "Päästäksesi tälle sivulle, lisää se poikkeuksiin.",
+        "description": ""
+    },
+	
+
+	"blockPage_text5": {
+        "message": "Lisää sallitut listalle",
+        "description": ""
+    },
+	
+	"optionsPage_text1": {
+        "message": "<b>Adult Blocker</b> (Lapsilukko) - Adult Blocker rajoittaa lasten ja nuorten pääsyä haitallisille sivustoille Internetissä, kuten pornosivuille (aikuisviihde) tai väkivaltaa sisältäville sivuille. </p><p>Adult Blocker-lisäosa edistyneesti tutkii ja suodattaa sivun sisällön latausvaiheessa, jolloin sopimaton sisältö estetään lasten suojaamiseksi. Tuote tutkii sivut morfologisen analyysin avulla ja tunnistaa «huonot» sanat ja lauseet. Adult Blocker sisältää toiminnon, jonka avulla <b>«musta»</b> ja <b>«sallittu»</b> lista määrittää onko jonkin sivuston sisältö estetty vai sallittu riippumatta muista suodattimen asetuksista.</p><p> Jos mielestäsi lapsi on liian nuori liittymään tiettyihin sosiaalisen median palveluihin tai pääsemään tietyille sivuille - voit lisätä ne mustalle listalle. Sallitut lista on käänteinen toiminto, jonka avulla voit sallia sivustoja, jotka suodatin sivun sisällön vuoksi muuten kieltää.</p>",
+        "description": ""
+    },
+	
+	"optionsPage_text2": {
+        "message": "Poikkeukset",
+        "description": ""
+    },
+	
+	"optionsPage_text3": {
+        "message": "Sallitut",
+        "description": ""
+    },
+	
+	"optionsPage_text4": {
+        "message": "Musta lista",
+        "description": ""
+    },
+	
+	"optionsPage_text5": {
+        "message": "Vaihda Salasana",
+        "description": ""
+    },
+	
+	"optionsPage_text6": {
+        "message": "Nykyinen salasana",
+        "description": ""
+    },
+	
+	"optionsPage_text7": {
+        "message": "Uusi salasana ",
+        "description": ""
+    },
+	
+	"optionsPage_text8": {
+        "message": "Vahvista salasana",
+        "description": ""
+    },
+	
+	"optionsPage_js_text1": {
+        "message": "Salasana muutettu",
+        "description": ""
+    },
+	
+	"optionsPage_js_text2": {
+        "message": "Väärä salasana tai salasana ei täsmää",
+        "description": ""
+    },
+	
+	"optionsPage_text9": {
+        "message": "Tallenna",
+        "description": ""
+    },
+	
+	"optionsPage_text10": {
+        "message": "Suojaus",
+        "description": ""
+    },
+	
+	"optionsPage_text11": {
+        "message": "Piilota pikakuvake",
+        "description": ""
+    },
+	
+	"actionPopup_js_log61": {
+        "message": "Disabled on",
+        "description": ""
+    },
+	"passwordPage_text1": {
+        "message": "Aseta salasanasuojaus. Salasanasuojaus estää lapsen muuttaa pääsyrajoituksia.",
+        "description": ""
+    },
+	"passwordPage_text2": {
+        "message": "Luo salasana",
+        "description": ""
+    },
+	"passwordPage_text3": {
+        "message": "Vahvista salasana",
+        "description": ""
+    },
+	"passwordPage_text4": {
+        "message": "Tallenna",
+        "description": ""
+    },
+	"passwordPage_alert": {
+        "message": "Salasanat ei täsmää",
+        "description": ""
+    },
+	"actionPopup_js_log8": {
+        "message": "Väärä salasana",
+        "description": ""
+    }
+}
+

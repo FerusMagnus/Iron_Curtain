@@ -1,0 +1,241 @@
+{
+	"manifest_desc": {
+        "message": "Adult Blocker (Parental Control) blocks access to porn sites (adult content, pornography).",
+        "description": ""
+    },
+    "actionPopup_site": {
+        "message": "Site",
+        "description": ""
+    },
+
+    "actionPopup_status": {
+        "message": "Status",
+        "description": ""
+    },
+
+    "actionPopup_exception": {
+        "message": "Exceptions",
+        "description": ""
+    },
+
+    "actionPopup_enter_in": {
+        "message": "Add this site to",
+        "description": ""
+    },
+
+    "actionPopup_black_list": {
+        "message": "Add to blacklist",
+        "description": ""
+    },
+
+    "actionPopup_white_list": {
+        "message": "Add to whitelist",
+        "description": ""
+    },
+	
+    "actionPopup_mode_work": {
+        "message": "Mode plugin",
+        "description": ""
+    },
+
+    "actionPopup_enable": {
+        "message": "Enabled",
+        "description": ""
+    },
+
+    "actionPopup_change_mode": {
+        "message": "Edit mode plugin",
+        "description": ""
+    },
+
+    "actionPopup_enable_plugin": {
+        "message": "Enable plugin",
+        "description": ""
+    },
+
+    "actionPopup_disable_10_min": {
+        "message": "Disable for 10 min.",
+        "description": ""
+    },
+
+    "actionPopup_disable_30_min": {
+        "message": "Disable for 30 min.",
+        "description": ""
+    },
+
+    "actionPopup_disable_60_min": {
+        "message": "Disable 1 hour",
+        "description": ""
+    },
+
+    "actionPopup_enter_pass": {
+        "message": "Enter the password",
+        "description": ""
+    },
+
+    "actionPopup_locked_request": {
+        "message": "Block requests",
+        "description": ""
+    },
+	
+    "actionPopup_js_log1": {
+        "message": "Does not contain any banned information",
+        "description": ""
+    },
+	
+    "actionPopup_js_log2": {
+        "message": "Contains information prohibited",
+        "description": ""
+    },
+	
+	"actionPopup_js_log3": {
+        "message": "Added to the black list",
+        "description": ""
+    },
+	
+	"actionPopup_js_log4": {
+        "message": "Added to the white list",
+        "description": ""
+    },
+	
+	"actionPopup_js_log5": {
+        "message": "Search banned information",
+        "description": ""
+    },
+
+	"actionPopup_js_log6": {
+        "message": "Disabled on",
+        "description": ""
+    },
+	
+    "actionPopup_js_log7": {
+        "message": "min",
+        "description": ""
+    },
+	
+	"blockPage_text1": {
+        "message": "Access Denied!",
+        "description": ""
+    },
+	
+	"blockPage_text2": {
+        "message": "Adult Blocker closed access to the page because the page has a forbidden content.",
+        "description": ""
+    },
+	
+	"blockPage_text3": {
+        "message": "In Adult Blocker has a function <b> «black» </b> and <b> «white» lists </b> to online resources when making sites in data sets, access is blocked or permitted regardless of other filter settings. If you think that your child is still too early to sit in a certain social networks or go to some specific sites - you can add them to the blacklist. White list - reverse tool that allows you to view sites that fell under the content filter (were locked plugin). To change the 'black' and 'white' lists, press <i class='glyphicon glyphicon-cog'> </i> in the upper left corner.",
+        "description": ""
+    },
+	
+	"blockPage_text3a": {
+        "message": "View forbidden words",
+        "description": ""
+    },
+	
+	"blockPage_text4": {
+        "message": "To view the site, add it to the exception.",
+        "description": ""
+    },
+	
+
+	"blockPage_text5": {
+        "message": "Add to the white list",
+        "description": ""
+    },
+	
+	"optionsPage_text1": {
+        "message": "<b> Adult Blocker (Parental Control) </b> - this limit the access of children and adolescents to undesirable sites on the Internet, for example, porn sites (adult content), sites where there is a promotion of violence. </p><p> The advantage of the plugin is that Adult Blocker provides an insightful analysis of the content and filter the page to load content, allowing you to block profanity, thereby providing better protection for your children. The product performs morphological analysis of web pages for the presence of «bad» words and phrases. </p><p> In Adult Blocker has a function <b> «black» </b> and <b> «white» lists </b> to online resources when making sites in data sets, access to them is blocked or allowed, regardless of other filtering settings. If you think that your child is still too early to sit in a certain social networks or go to some specific sites - you can add them to the blacklist. White list - reverse tool that allows you to view sites that fell under the content filter (were locked plugin).",
+        "description": ""
+    },
+	
+	"optionsPage_text2": {
+        "message": "Exceptions",
+        "description": ""
+    },
+	
+	"optionsPage_text3": {
+        "message": "Whitelist",
+        "description": ""
+    },
+	
+	"optionsPage_text4": {
+        "message": "Blacklist",
+        "description": ""
+    },
+	
+	"optionsPage_text5": {
+        "message": "Change Password",
+        "description": ""
+    },
+	
+	"optionsPage_text6": {
+        "message": "Current password",
+        "description": ""
+    },
+	
+	"optionsPage_text7": {
+        "message": "New password",
+        "description": ""
+    },
+	
+	"optionsPage_text8": {
+        "message": "Confirm password",
+        "description": ""
+    },
+	
+	"optionsPage_js_text1": {
+        "message": "Password changed",
+        "description": ""
+    },
+	
+	"optionsPage_js_text2": {
+        "message": "Incorrect password or passwords do not match",
+        "description": ""
+    },
+	
+	"optionsPage_text9": {
+        "message": "Save",
+        "description": ""
+    },
+	
+	"optionsPage_text10": {
+        "message": "Protection",
+        "description": ""
+    },
+	
+	"optionsPage_text11": {
+        "message": "Hide icon panel",
+        "description": ""
+    },
+	
+	"actionPopup_js_log61": {
+        "message": "Disabled on",
+        "description": ""
+    },
+	"passwordPage_text1": {
+        "message": "Set password protection. Password protection does not allow a child to bypass access restrictions.",
+        "description": ""
+    },
+	"passwordPage_text2": {
+        "message": "Create a password",
+        "description": ""
+    },
+	"passwordPage_text3": {
+        "message": "Confirm your password",
+        "description": ""
+    },
+	"passwordPage_text4": {
+        "message": "Save",
+        "description": ""
+    },
+	"passwordPage_alert": {
+        "message": "Passwords do not match",
+        "description": ""
+    },
+	"actionPopup_js_log8": {
+        "message": "Invalid password",
+        "description": ""
+    }
+}
+

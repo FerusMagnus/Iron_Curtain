@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<title>Curtain</title>
+<meta charset="utf-8">
+<meta name="Description" content="">
+<meta name="Keywords" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="icon" href="favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" href="../css/bootstrap.min.css"  type="text/css">
+<link rel="stylesheet" href="../css/panel.css" type="text/css"  media="screen">
+<link href='http://fonts.googleapis.com/css?family=Roboto:400,500italic,500,400italic,300italic,300,100italic,100&amp;subset=latin,cyrillic,cyrillic-ext' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,400italic&amp;subset=latin,cyrillic-ext,cyrillic' rel='stylesheet' type='text/css'>
+<script src="../js/jquery-2.1.1.js" type="text/javascript"></script>
+<script src="../js/bootstrap.js" type="text/javascript"></script>
+</head>
+<body class="">
+
+<div id="main-block" class="panel panel-primary" style="display: none;">
+
+<div class="panel-heading clearfix">
+<div class="logo pull-left">
+<i class="glyphicon glyphicon-adult"></i>
+<span>Iron Curtain</span>
+</div>
+<div class="dropdown pull-right clearfix">
+<a href="#" class="options  dropdown-toggle"  id="options-panel" title="Options panel" data-toggle="dropdown">
+<i class="glyphicon glyphicon-cog"></i>
+</a>
+</div>
+</div><!-- panel-heading -->
+
+
+<div class="panel-body">
+<div class="row">
+<div class="col-md-2"><h3 id="site">:</h3></div> <div class="col-md-10"><span id="site-insert"></span></div>
+</div><!--/ .row -->
+<hr>
+<div class="row">
+<div class="col-md-2"><h3 id="status">:</h3></div> <div class="col-md-10"><span id="status-insert"></span></div>
+</div><!--/ .row -->
+
+<hr>
+
+<div class="exception">
+<h3 id="exception">:</h3>
+<div class="bs-callout bs-callout-danger">
+<h4 id="enter_in">:</h4>
+<p>
+<a href="#" id="addBlackList" class="btn btn-danger btn-sm btn-ab"></a>
+<a href="#" id="addWhiteList" class="btn btn-info btn-sm btn-ab"></a>
+</p>
+</div>
+</div>
+
+<!-- Small button group -->
+<div class="control clearfix">
+<h3 id="mode_work">: <i id="status-plugin"></i></h3>
+<div class="btn-group pull-left">
+  <button id="change_mode" class="btn btn-default btn-sm dropdown-toggle" type="button" data-toggle="dropdown">
+   <span class="caret"></span>
+  </button>
+  <ul class="dropdown-menu" role="menu">
+    <li><a href="#" id="enable_plugin"> <i class=""></i></a></li>
+    <li><a href="#" id="disable_10_min"> <i class=""></i></a></li>
+    <li><a href="#" id="disable_30_min"> <i class=""></i></a></li>
+    <li><a href="#" id="disable_60_min"> <i class=""></i></a></li>
+  </ul>
+</div>
+
+<div class="eye pull-right"><i class="glyphicon glyphicon-eye-open"></i></div>
+</div><!--/ .clearfix .btn-group-->
+</div><!--/ .panel-body-->
+
+<div class="panel-footer">
+<h3 id="locked_request">: <span id="total"></span></h3>
+</div><!-- panel-footer -->
+
+</div><!--/ .panel-->
+
+	<!-- PASSWORD PROTECTION-->
+	<div id="password-block" class="panel panel-primary" style="display: none;">
+
+	<div class="panel-heading clearfix">
+	<div class="logo pull-left">
+	<i class="glyphicon glyphicon-adult"></i>
+	<span>Iron Curtain</span>
+	</div>
+	<div class="dropdown pull-right clearfix">
+	</div>
+	</div><!-- panel-heading -->
+
+	<div class="panel-body">
+	<form class="form-horizontal" role="form">
+	  <p id="text1"></p>
+	  <br/>
+	  <div class="form-group">
+		<div class="col-sm-9">
+		  <input type="password" class="form-control" id="input-pwd1" autocomplete="off" placeholder="Придумайте пароль">
+		</div>
+	  </div>
+	  <div class="form-group">
+		<div class="col-sm-9">
+		  <input type="password" class="form-control" id="input-pwd2" autocomplete="off" placeholder="Повторите ваш пароль">
+		</div>
+	  </div>
+	  <div class="email-block" style="display: none;">
+	  <a id="toggle-email" class="toggle-email" href="#"><span class="glyphicon glyphicon-chevron-down" ></span>Добавить уведомление по электронной почте</a>
+	  <div id="email-notification" style="display:none;">
+	  <hr>
+	  <p>При несанкционированном доступе к запрещённым ресурсам или отключении плагина на ваш почтовый ящик прийдет сообщение.<p/>
+	  <br/>
+	  <div class="form-group">
+		<div class="col-sm-9">
+		  <input type="text" class="form-control" id="input-email" autocomplete="off" placeholder="Email (не обязательно)">
+		</div>
+	  </div>
+	  </div>
+	  </div>
+	  <div class="form-group">
+		<div class="col-sm-offset-8 col-sm-4">
+		  <button id="submit" class="btn btn-default"></button>
+		</div>
+	  </div>
+	</form>
+	</div>
+
+	</div><!-- panel-->
+
+<!-- DISABLE PLUGIN PROTECTION-->
+<div id="disable-block" class="panel panel-primary" style="display: none;">
+
+<div class="panel-heading clearfix">
+<div class="logo pull-left">
+<i class="glyphicon glyphicon-adult"></i>
+<span>Iron Curtain</span>
+</div>
+<div class="dropdown pull-right clearfix">
+</div>
+</div><!-- panel-heading -->
+
+<div class="panel-body">
+<form class="form-horizontal" role="form">
+  <h2 id="text1" class="center">Плагин был отключен.</h2>
+  <p id="text1">Ниже выведено время отлучения:</p>
+  <br/>
+  <p>
+	<ul id="disable-time">
+	</ul>
+  </p>
+  <br/>
+  <div class="form-group">
+    <div class="col-sm-offset-8 col-sm-4">
+      <button id="submit-disable" class="btn btn-default">Очистить и Закрыть</button>
+    </div>
+  </div>
+</form>
+</div><!-- panel-->
+</div>
+
+<!-- Modal -->
+<div id="modal" class="modal bs-example-modal-sm" tabindex="-1" role="dialog"  aria-labelledby="" aria-hidden="true">
+  <div class="modal-dialog modal-sm">
+    <div class="modal-content">
+		<br/>
+      <form class="form-horizontal" role="form">
+		  <div class="form-group">
+			<div class="col-sm-5">
+			  <input type="password" class="form-control" id="input-pass" autocomplete="off" placeholder="Введите пароль">
+			</div>
+		  </div>
+		  <div class="form-group">
+			<div class="modal-button">
+				<button type="button" class="btn btn-default" data-dismiss="modal">Закрыть</button>
+				<button id="pwd-submit" class="btn btn-default" data-dismiss="modal">Ok</button>
+			</div>
+		  </div>
+		</form>
+    </div>
+  </div>
+</div>
+<!-- End Modal -->
+
+<script type="text/javascript" src="../js/library.js"></script>
+<script type="text/javascript" src="../js/utils.js"></script>
+<script type="text/javascript" src="../js/actionPopup.js"></script>
+</body>
+</html>

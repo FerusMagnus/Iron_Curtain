@@ -1,0 +1,237 @@
+{
+	"manifest_desc": {
+        "message": "Adult Blocker (Contrôle parental) bloque l'accès aux sites porno (contenu adulte, la pornographie).",
+        "description": ""
+    },
+    "actionPopup_site": {
+        "message": "Site",
+        "description": ""
+    },
+
+    "actionPopup_status": {
+        "message": "Etat",
+        "description": ""
+    },
+
+    "actionPopup_exception": {
+        "message": "Exceptions",
+        "description": ""
+    },
+
+    "actionPopup_enter_in": {
+        "message": "Ajoutez votre site",
+        "description": ""
+    },
+
+    "actionPopup_black_list": {
+        "message": "liste noire",
+        "description": ""
+    },
+
+    "actionPopup_white_list": {
+        "message": "liste blanche",
+        "description": ""
+    },
+	
+    "actionPopup_mode_work": {
+        "message": "Mode",
+        "description": ""
+    },
+
+    "actionPopup_enable": {
+        "message": "Activé",
+        "description": ""
+    },
+
+    "actionPopup_change_mode": {
+        "message": "Modifier",
+        "description": ""
+    },
+
+    "actionPopup_enable_plugin": {
+        "message": "Activer le plugin",
+        "description": ""
+    },
+
+    "actionPopup_disable_10_min": {
+        "message": "Désactiver pendant 10 minutes.",
+        "description": ""
+    },
+
+    "actionPopup_disable_30_min": {
+        "message": "Désactiver pendant 30 minutes.",
+        "description": ""
+    },
+
+    "actionPopup_disable_60_min": {
+        "message": "Désactiver 1 heure",
+        "description": ""
+    },
+
+    "actionPopup_enter_pass": {
+        "message": "Entrez le mot de passe",
+        "description": ""
+    },
+
+    "actionPopup_locked_request": {
+        "message": "Blocs demandes",
+        "description": ""
+    },
+	
+    "actionPopup_js_log1": {
+        "message": "Ne contient pas d'information interdit",
+        "description": ""
+    },
+	
+    "actionPopup_js_log2": {
+        "message": "Contient des informations interdites",
+        "description": ""
+    },
+	
+	"actionPopup_js_log3": {
+        "message": "Ajouté à la liste noire",
+        "description": ""
+    },
+	
+	"actionPopup_js_log4": {
+        "message": "Ajouté à la liste blanche",
+        "description": ""
+    },
+	
+	"actionPopup_js_log5": {
+        "message": "Recherche interdit d'informations",
+        "description": ""
+    },
+
+	"actionPopup_js_log6": {
+        "message": "Désactivé sur",
+        "description": ""
+    },
+	
+    "actionPopup_js_log7": {
+        "message": "min.",
+        "description": ""
+    },
+	
+	"blockPage_text1": {
+        "message": "Accès refusé",
+        "description": ""
+    },
+	
+	"blockPage_text2": {
+        "message": "Adult Blocker fermé l'accès à la page, car la page a un contenu interdit.",
+        "description": ""
+    },
+	
+	"blockPage_text3": {
+        "message": "Dans Adult Blocker a une fonction <b> «noir» </b> et <b> «listes» blanches </b> pour les ressources en ligne lors de sites dans les ensembles de données, l'accès est bloqué ou autorisé indépendamment de autres paramètres de filtrage. Si vous pensez que votre enfant est encore trop tôt pour s'asseoir dans un certains réseaux sociaux ou aller à certains sites spécifiques - vous pouvez les ajouter à la liste noire. Liste blanche - outil inverse qui vous permet de visualiser les sites qui sont tombés sous le filtre de contenu (étaient enfermés plugin). Pour changer le «noir» et les listes «blanches», appuyez sur <i class='glyphicon glyphicon-cog'> </i> dans le coin supérieur gauche. ",
+        "description": ""
+    },
+	
+	"blockPage_text3a": {
+        "message": "Voir mots interdits",
+        "description": ""
+    },
+	
+	"blockPage_text4": {
+        "message": "Pour afficher le site, l'ajouter à l'exception.",
+        "description": ""
+    },
+	
+
+	"blockPage_text5": {
+        "message": "Ajouter à la liste blanche",
+        "description": ""
+    },
+	
+	"optionsPage_text1": {
+        "message": "Adult Blocker (Contrôle parental) </b> - cette limite l'accès des enfants et des adolescents à des sites indésirables sur Internet, par exemple, des sites pornographiques (contenu adulte), des sites où il ya une promotion de la violence </p> <p> l'avantage du plugin est que des adultes Blocker fournit une analyse approfondie du contenu et de filtrer la page pour charger du contenu, vous permettant de bloquer le blasphème, offrant ainsi une meilleure protection pour vos enfants. Le produit effectue une analyse morphologique des pages Web de la présence de mots et de phrases «mauvais». </p> <p> En Adult Blocker a une fonction <b> «noir» </b> et <b> «listes» blanches </b> aux ressources en ligne lors de sites dans les ensembles de données, leur accès est bloqué ou autorisé, indépendamment des autres paramètres de filtrage. Si vous pensez que votre enfant est encore trop tôt pour s'asseoir dans un certains réseaux sociaux ou aller à certains sites spécifiques - vous pouvez les ajouter à la liste noire. Liste blanche - outil inverse qui vous permet de visualiser les sites qui sont tombés sous le filtre de contenu (étaient enfermés plugin). ",
+        "description": ""
+    },
+	
+	"optionsPage_text2": {
+        "message": "Exceptions",
+        "description": ""
+    },
+	
+	"optionsPage_text3": {
+        "message": "Liste blanche",
+        "description": ""
+    },
+	
+	"optionsPage_text4": {
+        "message": "Blacklist",
+        "description": ""
+    },
+	
+	"optionsPage_text5": {
+        "message": "Changer mot de passe",
+        "description": ""
+    },
+	
+	"optionsPage_text6": {
+        "message": "Mot de passe actuel",
+        "description": ""
+    },
+	
+	"optionsPage_text7": {
+        "message": "Mouveau mot de passe",
+        "description": ""
+    },
+	
+	"optionsPage_text8": {
+        "message": "Confirmer mot de passe",
+        "description": ""
+    },
+	
+	"optionsPage_js_text1": {
+        "message": "Mot de passe modifié",
+        "description": ""
+    },
+	
+	"optionsPage_js_text2": {
+        "message": "Erreur",
+        "description": ""
+    },
+	
+	"optionsPage_text9": {
+        "message": "Enregistrer",
+        "description": ""
+    },
+	
+	"optionsPage_text10": {
+        "message": "Protection",
+        "description": ""
+    },
+	
+	"optionsPage_text11": {
+        "message": "Masquer l'icône panneau",
+        "description": ""
+    },
+	
+	"passwordPage_text1": {
+        "message": "Définissez un mot de passe. Protection par mot de passe ne permet pas à un enfant de contourner les restrictions d'accès.",
+        "description": ""
+    },
+	"passwordPage_text2": {
+        "message": "Choisissez un mot de passe",
+        "description": ""
+    },
+	"passwordPage_text3": {
+        "message": "Confirmer le mot de passe",
+        "description": ""
+    },
+	"passwordPage_text4": {
+        "message": "Enregistrer",
+        "description": ""
+    },
+	"passwordPage_alert": {
+        "message": "Les mots de passe ne correspondent pas",
+        "description": ""
+    },
+	"actionPopup_js_log8": {
+        "message": "Mot de passe invalide",
+        "description": ""
+    }
+}
+

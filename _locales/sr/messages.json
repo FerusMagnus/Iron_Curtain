@@ -1,0 +1,237 @@
+{
+	"manifest_desc": {
+        "message": "Adult Blocker (Родитељска контрола) блокира приступ порно сајтовима (садржај за одрасле, порнографија).",
+        "description": ""
+    },
+    "actionPopup_site": {
+        "message": "Сајт",
+        "description": ""
+    },
+
+    "actionPopup_status": {
+        "message": "Статус",
+        "description": ""
+    },
+
+    "actionPopup_exception": {
+        "message": "Изузеци",
+        "description": ""
+    },
+
+    "actionPopup_enter_in": {
+        "message": "Додај овај сајт на",
+        "description": ""
+    },
+
+    "actionPopup_black_list": {
+        "message": "Црну листy",
+        "description": ""
+    },
+
+    "actionPopup_white_list": {
+        "message": "бБелу листу",
+        "description": ""
+    },
+	
+    "actionPopup_mode_work": {
+        "message": "Режим додатка",
+        "description": ""
+    },
+
+    "actionPopup_enable": {
+        "message": "Укључен",
+        "description": ""
+    },
+
+    "actionPopup_change_mode": {
+        "message": "Уреди режим додатка",
+        "description": ""
+    },
+
+    "actionPopup_enable_plugin": {
+        "message": "Омогући додатак",
+        "description": ""
+    },
+
+    "actionPopup_disable_10_min": {
+        "message": "Заустави на 10 мин.",
+        "description": ""
+    },
+
+    "actionPopup_disable_30_min": {
+        "message": "Заустави на 30 мин.",
+        "description": ""
+    },
+
+    "actionPopup_disable_60_min": {
+        "message": "Заустави на 1 сат",
+        "description": ""
+    },
+
+    "actionPopup_enter_pass": {
+        "message": "Упишите лозинку",
+        "description": ""
+    },
+
+    "actionPopup_locked_request": {
+        "message": "Блокирани захтеви",
+        "description": ""
+    },
+	
+    "actionPopup_js_log1": {
+        "message": "Не садржи забрањене информације",
+        "description": ""
+    },
+	
+    "actionPopup_js_log2": {
+        "message": "Садржи забрањене информације",
+        "description": ""
+    },
+	
+	"actionPopup_js_log3": {
+        "message": "Додато на црну листу",
+        "description": ""
+    },
+	
+	"actionPopup_js_log4": {
+        "message": "Додато на белу листу",
+        "description": ""
+    },
+	
+	"actionPopup_js_log5": {
+        "message": "Тражи забрањене информације",
+        "description": ""
+    },
+
+	"actionPopup_js_log6": {
+        "message": "Заустављено на",
+        "description": ""
+    },
+	
+    "actionPopup_js_log7": {
+        "message": "мин.",
+        "description": ""
+    },
+	
+	"blockPage_text1": {
+        "message": "Приступ одбијен",
+        "description": ""
+    },
+	
+	"blockPage_text2": {
+        "message": "Adult Blocker је забранио приступ страници зато што садржи недозвољени садржај.",
+        "description": ""
+    },
+	
+	"blockPage_text3": {
+        "message": "Додатак Adult Blocker садржи функцију «црне»  и «беле» листе онлине ресурса приликом упсивања страница у сет података, а приступ страницама је блокиран или дозвољен, без обзира на остале поставке филтрирања. Ако мислите да је за ваше дете још увек прерано да буде у одређеним друштвеним мрежама или да посећује неке специфичним веб странице - можете их додати на црну листу. Бела листа – је вам омогућава да видите сајтове који би иначе били филтрирани (били би закључани кроз додатак). За промену «црне» и «беле» листе, кликните на икону <i class='glyphicon glyphicon-cog'></i> у горњем левом углу.",
+        "description": ""
+    },
+	
+	"blockPage_text3a": {
+        "message": "Погледајте забрањене речи",
+        "description": ""
+    },
+	
+	"blockPage_text4": {
+        "message": "Да бисте видели веб сајт, додајте га у изузетак.",
+        "description": ""
+    },
+	
+
+	"blockPage_text5": {
+        "message": "Додајте на белу листу",
+        "description": ""
+    },
+	
+	"optionsPage_text1": {
+        "message": "<b>Adult Blocker</b> (Родитељска контрола) - ограничава приступ деце и адолесцената садржају нежељених веб сајтова на интернету, на пример порно сајтовима (садржају за одрасле) и сајтовима где постоји промоција насиља.</p><p>Предност додатка је у томе што Adult Blocker обезбеђује јасну анализу садржаја и филтер за учитавање садржаја страница, што вам омогућава да блокирате псовке чиме обезбеђује бољу заштиту за вашу децу. Производ врши морфолошку анализу веб страница на којима постоје «лоше» речи и фразе.</p><p>Adult Blocker има могућност за одабир <b>«црне»</b> и <b>«беле»</b> листе онлине ресурса приликом упсивања страница у сет података, а приступ страницама је блокиран или дозвољен, без обзира на остале поставке филтрирања. Ако мислите да је за ваше дете још увек прерано да буде у одређеним друштвеним мрежама или да посећује неке специфичним веб странице - можете их додати на црну листу. Бела листа – је вам омогућава да видите сајтове који би иначе били филтрирани (били би закључани кроз додатак)",
+        "description": ""
+    },
+	
+	"optionsPage_text2": {
+        "message": "Изузеци",
+        "description": ""
+    },
+	
+	"optionsPage_text3": {
+        "message": "Бела листа",
+        "description": ""
+    },
+	
+	"optionsPage_text4": {
+        "message": "Црна листа",
+        "description": ""
+    },
+	
+	"optionsPage_text5": {
+        "message": "Промените лозинку",
+        "description": ""
+    },
+	
+	"optionsPage_text6": {
+        "message": "Тренутна лозинка",
+        "description": ""
+    },
+	
+	"optionsPage_text7": {
+        "message": "Нова лозинка ",
+        "description": ""
+    },
+	
+	"optionsPage_text8": {
+        "message": "Потврдите лозинку",
+        "description": ""
+    },
+	
+	"optionsPage_js_text1": {
+        "message": "Лозинка је промењена",
+        "description": ""
+    },
+	
+	"optionsPage_js_text2": {
+        "message": "Погрешна лозинкаили се лозинка не поклапа",
+        "description": ""
+    },
+	
+	"optionsPage_text9": {
+        "message": "Сачувајте",
+        "description": ""
+    },
+	
+	"optionsPage_text10": {
+        "message": "Заштита",
+        "description": ""
+    },
+	
+	"optionsPage_text11": {
+        "message": "Сакријте икону панела",
+        "description": ""
+    },
+	
+	"passwordPage_text1": {
+        "message": "Подеси заштиту лозинком. Заштита лозинком онемогућава деци да заобиђу ограничење приступа.",
+        "description": ""
+    },
+	"passwordPage_text2": {
+        "message": "Одаберите лозинку",
+        "description": ""
+    },
+	"passwordPage_text3": {
+        "message": "Потврдите лозинку",
+        "description": ""
+    },
+	"passwordPage_text4": {
+        "message": "Сачувајте",
+        "description": ""
+    },
+	"passwordPage_alert": {
+        "message": "Лозинке се не поклапају",
+        "description": ""
+    },
+	"actionPopup_js_log8": {
+        "message": "Погрешна лозинка",
+        "description": ""
+    }
+}
+
