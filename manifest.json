@@ -1,5 +1,5 @@
 {
-    "name": "Iron Curtain",
+    "name": "Lite Iron Curtain",
     "version": "1.0.0",
     "manifest_version": 2,
 	"content_security_policy": "script-src 'self' 'unsafe-eval' https://www.google-analytics.com; object-src 'self'",
@@ -22,7 +22,7 @@
             "19": "images/_.png",
             "38": "images/icon-38.png"
         },
-        "default_title": "Iron Curtain",
+        "default_title": "Lite Iron Curtain",
         "default_popup": "html/actionPopup.html"
     },
 
