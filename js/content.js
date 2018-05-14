@@ -162,22 +162,6 @@ function scanContentTabs(data) {
 		status = '3';
 	}
     
-    if(window.location.protocol == 'http:' && blocked == false && blackList == false){        
-        var request = new XMLHttpRequest();
-        
-        function reqReadyStateChange() {
-            if (request.readyState == 4 && request.status == 200){
-                blocked = true;
-            }
-        }
-        
-        var drr = "url=" + url;
-        request.open("POST", "http://tools.seo-auditor.com.ru/tools/blocklist/", false);
-        request.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
-        request.onreadystatechange = reqReadyStateChange;
-        request.send(drr);
-    }
-    
     if(blocked == false && blackList == false){
         var treshold = 10;
         var sum = 0;
