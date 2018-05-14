@@ -135,6 +135,8 @@ function scanInterval(data) {
 }
 
 function scanContentTabs(data) {
+    var t0 = performance.now();
+    
 	badWorld = data.d;
     var scale = data.m;
 	var exceptUrlWhiteList = data.e.u.w;
@@ -246,6 +248,9 @@ function scanContentTabs(data) {
 	} else if(isExistElement('iframe_ID_adult_blocker') && whiteList) {
 		document.location.reload();
 	}
+    
+    var t1 = performance.now();
+    console.log('Время анализа: ', (t1 - t0).toFixed(4));
 }
 
 //EMPTY SEARCH CONTENT
